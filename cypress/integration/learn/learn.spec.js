@@ -613,7 +613,7 @@ describe.only('Learn Cypress...', () => {
         })
     })
 
-    describe('Time', () => {
+    describe('Work with time', () => {
         beforeEach(() => {
             cy.visit('https://wcaquino.me/cypress/componentes.html')
         })
